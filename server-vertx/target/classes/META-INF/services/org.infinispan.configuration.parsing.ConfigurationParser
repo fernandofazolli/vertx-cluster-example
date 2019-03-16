@@ -1,0 +1,2 @@
+org.infinispan.configuration.parsing.Parser
+org.infinispan.counter.configuration.CounterConfigurationParser
